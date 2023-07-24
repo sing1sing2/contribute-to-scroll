@@ -22,7 +22,8 @@ To create an issue, you have several options:
 - [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
 
 And that's it! You've started your contribution to Scroll journey 📜 🚀
-* please validate that propject you are proposing is not mentioned on Scroll ecosystem(https://scroll.io/ecosystem) page. 
+
+_*Please validate that propject you are proposing is not mentioned on Scroll ecosystem(https://scroll.io/ecosystem) page._
 ### Making a PR
 
 Please start by making a PR to any external repo first. You can then create a draft PR to this repo so that our team can help comment on and review any contributions to external projects.
