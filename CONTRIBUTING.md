@@ -14,7 +14,7 @@ On our Issues page, you'll find a number of ways to contribute. Many are "Integr
 
 Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
 
-#### How to create an issue?
+#### How to create an issue*?
 To create an issue, you have several options:
 - Use predefined issue templates found [here](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). With these you can:
    - **"Add Scroll to some tool or library"** - _Integrate Scroll into your favourite project_
@@ -22,7 +22,7 @@ To create an issue, you have several options:
 - [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
 
 And that's it! You've started your contribution to Scroll journey 📜 🚀
-
+* please validate that propject you are proposing is not mentioned on Scroll ecosystem(https://scroll.io/ecosystem) page. 
 ### Making a PR
 
 Please start by making a PR to any external repo first. You can then create a draft PR to this repo so that our team can help comment on and review any contributions to external projects.
